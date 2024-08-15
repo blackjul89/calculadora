@@ -11,7 +11,7 @@
 }
 .Calculadora{
     position: absolute;
-    background-color: rgba(222, 219, 219, 0.7);
+    background-color: rgba(98, 20, 223, 0.7);
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
@@ -25,9 +25,9 @@
     margin: 3px;
     font-size: 25px;
     cursor: pointer;
-    background-color: grey;
+    background-color: rgb(97, 12, 12);
     border: none;
-    color: black;
+    color: rgb(19, 144, 228);
 }
 .botao:hover{
     background-color: black;
@@ -38,7 +38,7 @@
     width: 207px;
     height: 30px;
     margin: 5px;
-    color: black;
+    color: rgb(161, 16, 16);
     text-align: right;
     padding: 5px;
 }
